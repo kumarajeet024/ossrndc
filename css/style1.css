@@ -1,0 +1,73 @@
+@-webkit-keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  z-index: 100;
+  width: 600px;
+  height: 500px;
+}
+
+svg {
+  width: 600px;
+  height: 500px;
+  z-index: 200;
+  position: absolute;
+  top: 0px;
+  left: 0;
+}
+
+svg#lightbulb {
+  z-index: 200;
+  mix-blend-mode: multiply;
+}
+
+svg#cutout {
+  z-index: 300;
+  pointer-events: none;
+}
+svg#cutout path {
+ 
+}
+
+#Layer_3 polygon {
+  position: relative;
+  opacity: 1;
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  transition: 250ms;
+}
+#Layer_3 polygon:hover {
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
+  z-index: 1000;
+}
+
+#particles-js {
+  position: absolute;
+  width: 600px;
+  height: 500px;
+  background: linear-gradient(-45deg, #b61924, #19ffd8, #daf504, #f504d7, #b61924);
+  background-size: 1000% 1000%;
+  -webkit-animation: gradientAnimation 10000ms ease infinite;
+          animation: gradientAnimation 10000ms ease infinite;
+}
