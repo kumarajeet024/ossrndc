@@ -8,7 +8,7 @@ var i = 0,
 var textArray = [
   "We Create",
   "We Design",
-  "We are the Centre Of Technocrats"
+  "We are Technocrats"
 ];
 
 // Speed (in milliseconds) of typing.

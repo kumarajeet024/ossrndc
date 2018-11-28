@@ -1,11 +1,10 @@
 .output {
   text-align:center;
-  font-family: 'Source Code Pro', monospace;
-  color:white;
-  h1 {
-    font-size:15px;
-  }
+  color:#ff9f43;
+  font-size:10px;
+  
 }
+
 
 /* Cursor Styling */
 
@@ -13,7 +12,7 @@
   content:'';
   display:inline-block;
   margin-left:3px;
-  background-color:white;
+  background-color:;
   animation-name:blink;
   animation-duration:0.8s;
   animation-iteration-count: infinite;

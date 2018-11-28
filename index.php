@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/typewriter.css">
+    <link rel="stylesheet" href="css/style2.css">
   </head>
   <body>
 
@@ -87,127 +88,22 @@
     </div>
 
     <div class="bg-light">
-    <section class="ftco-section-featured ftco-animate">
-      <div class="container-fluid" data-scrollax-parent="true">
-        <div class="row no-gutters d-flex align-items-center" data-scrollax=" properties: { translateY: '-30%'}">
+        <div class="text-center">
+          <h1 style="padding-top:60px;">ABOUT US</h1>
+        </div>
+        <div class="row mt-5 d-flex justify-content-left">
+          <div class="col-md-8 ftco-animate">
+            <h2 class="heading" style="font-size: 15px;">In the present day scenario, the open source software is replacing the proprietary software because of manifold advantages they have over proprietary software. Even though Free/Open Source Software (FOSS) is widely used, much of the computer science research community has yet to fully recognise its potential to change the world of research and developement of software intensive systems across disciplines.
 
-          <!--<div class="col-md-3 mb-3">
-            <a href="#" class="featured-img">
-              <div class="text-1 p-4 d-flex align-items-center">
-                <h3>The Verge<br><span class="tag">Website</span></h3>
-              </div>
-              <img src="images/image_1.jpg" class="img-fluid" alt="">
-              <div class="text p-4 d-flex align-items-center">
-                <div class="user d-flex align-items-center">
-                  <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                  <h3>John Bruce <br><span class="position">Designer</span></h3>
-                </div>
-              </div>
-            </a>
-          </div>
-
-          <div class="col-md-6">
-            <div class="row no-gutters">
-              <div class="col-md-12">
-                <div class="row no-gutters d-flex align-items-end">
-
-                  <div class="col-md-8">
-                    <a href="#" class="featured-img">
-                      <div class="text-1 p-4 d-flex align-items-center">
-                        <h3>Racks<br><span class="tag">Website</span></h3>
-                      </div>
-                      <img src="images/image_5.jpg" class="img-fluid" alt="">
-                      <div class="text p-4 d-flex align-items-center">
-                        <div class="user d-flex align-items-center">
-                          <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>John Bruce <br><span class="position">Designer</span></h3>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-
-                  <div class="col-md-4">
-                    <a href="#" class="featured-img">
-                      <div class="text-1 p-4 d-flex align-items-center">
-                        <h3>Zendesk<br><span class="tag">Website</span></h3>
-                      </div>
-                      <img src="images/image_4.jpg" class="img-fluid" alt="">
-                      <div class="text p-4 d-flex align-items-center">
-                        <div class="user d-flex align-items-center">
-                          <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>John Bruce <br><span class="position">Designer</span></h3>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-
-                </div>
-              </div>
-
-              <div class="col-md-12">
-                <div class="row no-gutters d-flex align-items-start">
-                  <div class="col-md-8">
-                    <a href="#" class="featured-img">
-                      <div class="text-1 p-4 d-flex align-items-center">
-                        <h3>Curator<br><span class="tag">Website</span></h3>
-                      </div>
-                      <img src="images/image_6.jpg" class="img-fluid" alt="">
-                      <div class="text p-4 d-flex align-items-center">
-                        <div class="user d-flex align-items-center">
-                          <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>John Bruce <br><span class="position">Designer</span></h3>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-md-4">
-                    <a href="#" class="featured-img">
-                      <div class="text-1 p-4 d-flex align-items-center">
-                        <h3>Tasty<br><span class="tag">Website</span></h3>
-                      </div>
-                      <img src="images/image_3.jpg" class="img-fluid" alt="">
-                      <div class="text p-4 d-flex align-items-center">
-                        <div class="user d-flex align-items-center">
-                          <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>John Bruce <br><span class="position">Designer</span></h3>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </div>
+            </h2>  
+            <h2 class="heading" style="font-size:15px;"> The establishment of this research and developement center is expected to create a unique opportunity to all stake holders of the institute. The facility so created shall be useful to carry out research/developement/training/consultancy related to open source software. The center will customize the open source software according to the requirements. It will also train the students and facilities of our institute and will involve them in the developement and customisation of recent open source software. </h2>
             </div>
-          </div>
-
-          <div class="col-md-3">
-            <a href="#" class="featured-img">
-              <div class="text-1 p-4 d-flex align-items-center">
-                <h3>Voyage<br><span class="tag">Website</span></h3>
-              </div>
-              <img src="images/image_2.jpg" class="img-fluid" alt="">
-              <div class="text p-4 d-flex align-items-center">
-                <div class="user d-flex align-items-center">
-                  <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                  <h3>John Bruce <br><span class="position">Designer</span></h3>
-                </div>
-              </div>
-            </a>
-          </div>
-
-        </div>-->
-        <div class="row mt-5 d-flex ">
-          <div class="col-md-8 text-center  ftco-animate">
-            <h2 class="h1">ABOUT US</h2>
-          </div>
-        </div>
-        <div class="row mt-5 d-flex justify-content-center">
-          <div class="col-md-8 text-center heading-section ftco-animate">
-            <h2 class="h1">UI/UX, visual, <strong class="px-3">Web designer</strong> with more than 12 years of experience in designing websites and mobile apps.</h2>
+            </div>
+            <div class="row mt-5 d-flex justify-content-center">
+              <div class="col-md-8 text-center heading-section ftco-animate">
             <p><a href="#" class="btn btn-primary mt-3 py-3 px-5">Get in touch</a></p>
-          </div>
+            </div>
         </div>
-      </div>
-    </section>
     </div>
 
 
@@ -217,13 +113,13 @@
           <div class="col-md-6 text-center heading-section ftco-animate">
             <span class="heading "><h2>WHAT WE DO</h2></span>
             <!--<h2 class="mb-4">Web &amp; Mobile app design, bring your ideas to life</h2>-->
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+            <p></p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-lightbulb-o"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-lightbulb-o"></span></div></div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Strategy</h3>
                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
@@ -267,8 +163,41 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-              <h2>Technologies We Use</h2>
+              <h2>TECHNOLOGIES WE USE</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+              <div id="maindiv">
+                <div id="div1">
+                  &nbsp;
+                    <img src="images/android.png" width="150" height="150" alt="W3docs" />&nbsp&nbsp
+                    <img src="images/bootstrap.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/css.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/flutter.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/html.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/jquery.gif" width="150" height="150" alt="W3docs" />
+                    <img src="images/js.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/materialize.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/php.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/python.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/photoshop.png" width="150" height="150" alt="W3docs" />
+               
+                </div>
+                <div id="div2">
+                  &nbsp;
+                  <img src="images/android.png" width="150" height="150" alt="W3docs" />&nbsp&nbsp
+                    <img src="images/bootstrap.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/css.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/flutter.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/html.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/jquery.gif" width="150" height="150" alt="W3docs" />
+                    <img src="images/js.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/materialize.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/php.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/python.png" width="150" height="150" alt="W3docs" />
+                    <img src="images/photoshop.png" width="150" height="150" alt="W3docs" />
+                </div>
+              </div>
+              <br>
+                
           <!--   <div class="row d-flex justify-content-center mt-5">
                 <div class="col-md-6">
                   <form action="#" class="subscribe-form">
@@ -420,42 +349,7 @@
       </div>
     </section>
 
-  <!-- <section class="ftco-section ftco-counter" id="section-counter">
-      <div class="container">
-        <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2>Our achievements</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 text-center">
-              <div class="text">
-                <strong class="number" data-number="400">0</strong>
-                <span>Customers are satisfied with our professional support</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 text-center">
-              <div class="text">
-                <strong class="number" data-number="1000">0</strong>
-                <span>Amazing preset options to be mixed and combined</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 text-center">
-              <div class="text">
-                <strong class="number" data-number="8000">0</strong>
-                <span>Average response time on live chat support channel</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>-->
+ 
 
     <section class="ftco-section bg-light">
       <div class="container">
@@ -584,6 +478,8 @@
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
   <script src="js/typewriter.js"></script>
+  <!--<script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>-->
+                <script  src="js/index1.js"></script>
 
 
   </body>
