@@ -20,6 +20,7 @@
 
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css'>
 
 
     <link rel="stylesheet" href="css/flaticon.css">
@@ -27,6 +28,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/typewriter.css">
     <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" type="text/css" href="css/hover.css">
   </head>
   <body>
 
@@ -65,26 +67,57 @@
 
 
 
-    <div class="hero-wrap js-fullheight">
+    <div class="js-fullheight">
       <div class="overlay"></div>
-      <div id="particles-js"></div>
-      <div class="container">
+      <div id="large-header" class="large-header">
 
-        <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
-          <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Open Source Software Research & Development Centre</h1>
-            <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary btn-outline-white px-5 py-3">Get in touch</a></p>
+        <div class="container">
+          
 
-            <div class=" py-5">
-        <div class="output" id="output">
-          <h1 class="cursor"></h1>
-          <p></p>
-        </div>
+              <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+                <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br><br>
+                    <br><br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br><br>
+                    <br><br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                  <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }" style="color: #f6b93b">Open Source Software Research & Development Centre</h1>
+                  <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary btn-outline-white px-5 py-3">Get in touch</a></p>
+                 
+          
+                  <div class=" py-5">
+              <div class="output" id="output">
+                <h1 class="cursor"></h1>
+                <p></p>
+              </div>
+            </div>
+      
+                </div>
+              </div>
+            </div>
+
+
+        <canvas id="demo-canvas" width="100%" height="100%"></canvas>
       </div>
-
-          </div>
-        </div>
-      </div>
+      
+      
     </div>
 
     <div class="bg-light">
@@ -159,60 +192,53 @@
     </section>
 
     <section class="ftco-section-parallax">
-      <div class="parallax-img d-flex align-items-center">
+      <div class="parallax-img  align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
               <h2>TECHNOLOGIES WE USE</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-              <div id="maindiv">
-                <div id="div1">
-                  &nbsp;
-                    <img src="images/android.png" width="150" height="150" alt="W3docs" />&nbsp&nbsp
-                    <img src="images/bootstrap.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/css.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/flutter.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/html.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/jquery.gif" width="150" height="150" alt="W3docs" />
-                    <img src="images/js.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/materialize.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/php.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/python.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/photoshop.png" width="150" height="150" alt="W3docs" />
-               
-                </div>
-                <div id="div2">
-                  &nbsp;
-                  <img src="images/android.png" width="150" height="150" alt="W3docs" />&nbsp&nbsp
-                    <img src="images/bootstrap.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/css.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/flutter.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/html.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/jquery.gif" width="150" height="150" alt="W3docs" />
-                    <img src="images/js.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/materialize.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/php.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/python.png" width="150" height="150" alt="W3docs" />
-                    <img src="images/photoshop.png" width="150" height="150" alt="W3docs" />
-                </div>
-              </div>
-              <br>
                 
-          <!--   <div class="row d-flex justify-content-center mt-5">
-                <div class="col-md-6">
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group">
-                      <span class="icon icon-paper-plane"></span>
-                      <input type="text" class="form-control" placeholder="Enter email address">
-                    </div>
-                  </form>
-                </div>
-              </div>-->
             </div>
           </div>
         </div>
+    
+      <div id="maindiv">
+        <div id="div1">
+          &nbsp;
+            <img src="images/android.png" width="150" height="150" alt="W3docs" />&nbsp&nbsp
+            <img src="images/bootstrap.png" width="150" height="150" alt="W3docs" />
+            <img src="images/css.png" width="150" height="150" alt="W3docs" />
+            <img src="images/flutter.png" width="150" height="150" alt="W3docs" />
+            <img src="images/html.png" width="150" height="150" alt="W3docs" />
+            <img src="images/jquery.gif" width="150" height="150" alt="W3docs" />
+            <img src="images/js.png" width="150" height="150" alt="W3docs" />
+            <img src="images/materialize.png" width="150" height="150" alt="W3docs" />
+            <img src="images/php.png" width="150" height="150" alt="W3docs" />
+            <img src="images/python.png" width="150" height="150" alt="W3docs" />
+            <img src="images/photoshop.png" width="150" height="150" alt="W3docs" />
+       
+        </div>
+        <div id="div2">
+          &nbsp;
+          <img src="images/android.png" width="150" height="150" alt="W3docs" />&nbsp&nbsp
+            <img src="images/bootstrap.png" width="150" height="150" alt="W3docs" />
+            <img src="images/css.png" width="150" height="150" alt="W3docs" />
+            <img src="images/flutter.png" width="150" height="150" alt="W3docs" />
+            <img src="images/html.png" width="150" height="150" alt="W3docs" />
+            <img src="images/jquery.gif" width="150" height="150" alt="W3docs" />
+            <img src="images/js.png" width="150" height="150" alt="W3docs" />
+            <img src="images/materialize.png" width="150" height="150" alt="W3docs" />
+            <img src="images/php.png" width="150" height="150" alt="W3docs" />
+            <img src="images/python.png" width="150" height="150" alt="W3docs" />
+            <img src="images/photoshop.png" width="150" height="150" alt="W3docs" />
+        </div>
       </div>
+      <br>
+</div>
     </section>
+    
+    
 
     <section class="ftco-section">
       <div class="container">
@@ -225,7 +251,7 @@
         </div>
         <div class="row">
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image" style="background-image: url('images/work-1.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
+            <a href="portfolio.html" class="image" style="background-image: url('images/portal.png'); " data-scrollax=" properties: { translateY: '-20%'}">
             </a>
             <div class="text">
               <h4 class="subheading">Illustration</h4>
@@ -235,7 +261,7 @@
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/work-2.jpg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/feedback.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text order-1">
               <h4 class="subheading">Application</h4>
               <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
@@ -413,7 +439,9 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Open Source Software Research & Development Centre</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <p>We Design</p>
+              <p>We Create</p>
+              <p>We are Technocrats</p>
             </div>
           </div>
           <div class="col-md">
@@ -421,9 +449,9 @@
               <h2 class="ftco-heading-2">Quick Links</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Home</a></li>
-                <li><a href="#" class="py-2 d-block">Case studies</a></li>
+                <li><a href="#" class="py-2 d-block">Our Team</a></li>
                 <li><a href="#" class="py-2 d-block">Services</a></li>
-                <li><a href="#" class="py-2 d-block">Portfolio</a></li>
+                <li><a href="#" class="py-2 d-block">Projects</a></li>
                 <li><a href="#" class="py-2 d-block">About</a></li>
                 <li><a href="#" class="py-2 d-block">Contact</a></li>
               </ul>
@@ -433,10 +461,14 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">198 West 21th Street, Suite 721 New York NY 10016</a></li>
-                <li><a href="#" class="py-2 d-block">+ 1235 2355 98</a></li>
-                <li><a href="#" class="py-2 d-block">kumarajeet024@gmail.com</a></li>
-                <li><a href="#" class="py-2 d-block">kumarajeet024@gmail.com</a></li>
+                <li><a href="akgec.ac.in" class="py-2 d-block">AJAY KUMAR GARG ENGINEERING COLLEGE</a></li>
+                <li class="py-2 d-block">27th Km Stone
+                  Delhi - Hapur Bypass Road, 
+                  Adhyatmik Nagar 
+                  Ghaziabad - 201009</li>
+                <li><a href="#" class="py-2 d-block">9795094510</a></li>
+                <li><a href="#" class="py-2 d-block">ossrndcentre@gmail.com</a></li>
+                
               </ul>
             </div>
           </div>
@@ -444,7 +476,7 @@
             <div class="ftco-footer-widget mb-4">
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/ossrd/"><span class="icon-facebook"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
@@ -480,6 +512,7 @@
   <script src="js/typewriter.js"></script>
   <!--<script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>-->
                 <script  src="js/index1.js"></script>
+                <script src="js/hover.js"></script>
 
 
   </body>
