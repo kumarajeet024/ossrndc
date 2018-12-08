@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css'>
-  
+
 
 
     <link rel="stylesheet" href="css/flaticon.css">
@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="css/typewriter.css">
     <link rel="stylesheet" href="css/style2.css">
     <link rel="stylesheet" type="text/css" href="css/hover.css">
+    <link rel="stylesheet" type="text/css" href="css/font/flaticon.css">
   </head>
   <body>
 
@@ -69,7 +70,7 @@
       <div id="large-header" class="large-header">
 
         <div class="container">
-          
+
 
               <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
@@ -97,15 +98,15 @@
                     <br>
                   <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }" style="color: #f6b93b">Open Source Software Research & Development Centre</h1>
                   <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary btn-outline-white px-5 py-3">Get in touch</a></p>
-                 
-          
+
+
                   <div class=" py-5">
               <div class="output" id="output">
                 <h1 class="cursor"></h1>
                 <p></p>
               </div>
             </div>
-      
+
                 </div>
               </div>
             </div>
@@ -113,8 +114,8 @@
 
         <canvas id="demo-canvas" width="100%" height="100%"></canvas>
       </div>
-      
-      
+
+
     </div>
 
     <div class="bg-light">
@@ -125,7 +126,7 @@
           <div class="col-md-6 ftco-animate">
             <h2 class="heading" style="font-size: 15px;">In the present day scenario, the open source software is replacing the proprietary software because of manifold advantages they have over proprietary software. Even though Free/Open Source Software (FOSS) is widely used, much of the computer science research community has yet to fully recognise its potential to change the world of research and developement of software intensive systems across disciplines.
 
-            </h2>  
+            </h2>
             <h2 class="heading" style="font-size:15px;"> The establishment of this research and developement center is expected to create a unique opportunity to all stake holders of the institute. The facility so created shall be useful to carry out research/developement/training/consultancy related to open source software. The center will customize the open source software according to the requirements. It will also train the students and facilities of our institute and will involve them in the developement and customisation of recent open source software. </h2>
             </div>
 
@@ -145,9 +146,9 @@
                             <clipPath id="SVGID_2_">
                               <use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
                             </clipPath>
-                            
+
                               <rect x="47.2" y="626.1" style="clip-path:url(#SVGID_2_);fill:#EDCF94;stroke:#0B0B0B;stroke-miterlimit:10;" width="34" height="56.4"/>
-                            
+
                               <rect x="850.5" y="626.6" style="clip-path:url(#SVGID_2_);fill:#EDCF94;stroke:#0B0B0B;stroke-miterlimit:10;" width="281.4" height="49.9"/>
                             <path style="clip-path:url(#SVGID_2_);fill:#FFCF0A;" d="M273.8,586.3"/>
                           </g>
@@ -228,10 +229,10 @@
                           <g id="lamp-body">
                             <g id="lamp-header">
                               <g id="lamp-line-t">
-                               <polyline style="fill:#228370;stroke:#0B0B0B;stroke-miterlimit:10;" points="187.9,333.9 194.8,337.7 70.9,417.1 65.2,411.6 
+                               <polyline style="fill:#228370;stroke:#0B0B0B;stroke-miterlimit:10;" points="187.9,333.9 194.8,337.7 70.9,417.1 65.2,411.6
                                 187.9,333.9   "/>
-                              <polyline style="fill:#228370;stroke:#0B0B0B;stroke-miterlimit:10;" points="198.6,342.1 205.5,346.9 84.1,425.2 79,419.7 
-                                198.6,342.1   "/>        
+                              <polyline style="fill:#228370;stroke:#0B0B0B;stroke-miterlimit:10;" points="198.6,342.1 205.5,346.9 84.1,425.2 79,419.7
+                                198.6,342.1   "/>
                             </g>
                               <g id="lamp-head">
                               <ellipse style="fill:#228370;stroke:#0B0B0B;stroke-miterlimit:10;" cx="193.8" cy="347.5" rx="18.5" ry="19.3"/>
@@ -248,7 +249,7 @@
                             </g>
                             <ellipse id="lamp-circle" style="fill:#3FBDA4;stroke:#0B0B0B;stroke-miterlimit:10;" cx="80.2" cy="422.9" rx="19.7" ry="20.5"/>
                           </g>
-                         
+
                           <path class="lamp-leg" style="fill:#228370;stroke:#0B0B0B;stroke-miterlimit:10;" d="M193.8,606.2H66.2v-11.6c0-1.6,2.1-2.9,4.7-2.9h121.2
                             c1,0,1.7,0.5,1.7,1.1V606.2z"/>
                           <g id="lamp-bottom">
@@ -257,7 +258,7 @@
                             <path style="fill:#70BAAF;stroke:#0B0B0B;stroke-miterlimit:10;" d="M147.9,564c0,0,8.8,4.6,17-0.4c0.5-0.3,1,0.1,1,0.8v9.2
                             C165.9,573.6,152.1,565.3,147.9,564z"/>
                           </g>
-                          
+
                           <polyline class="light" style="opacity:0;fill:#FCF1C4;" points="276.4,343 781.8,605.3 312.8,606.8 223,418.9  "/>
                           <g id="lamp-line">
                             <path style="fill:#2FAF97;" d="M182.3,357.8c-8.4,28.4,1.9,61.2,23.2,78.5c1.2-0.5-1.2,0.5,0,0l-3.4-108.7
@@ -269,7 +270,7 @@
                             <line style="fill:none;stroke:#BFE4E2;stroke-linecap:round;stroke-miterlimit:10;" x1="271.7" y1="328.3" x2="274.8" y2="330"/>
                             <path style="fill:none;stroke:#BFE4E2;stroke-linecap:round;stroke-miterlimit:10;" d="M88.5,409.4c0,0,9.3,7.1,6.2,16.8"/>
                             <path style="fill:none;stroke:#BFE4E2;stroke-linecap:round;stroke-miterlimit:10;" d="M125.8,564.4c0,0,17,1,28.6,9.2"/>
-                            <line style="fill:none;stroke:#BFE4E2;stroke-linecap:round;stroke-miterlimit:10;" x1="160.2" y1="577.1" x2="163.3" y2="579.5"/>        
+                            <line style="fill:none;stroke:#BFE4E2;stroke-linecap:round;stroke-miterlimit:10;" x1="160.2" y1="577.1" x2="163.3" y2="579.5"/>
                           </g>
                         </g>
                         <g id="computer_mouse">
@@ -278,7 +279,7 @@
                           <path style="fill:#D1D4D6;" d="M764.5,592.5c-3.9-1.4-9-2.6-13.3-2.4v15.7l26.1,0.1C777.2,601.6,773,595.6,764.5,592.5z"/>
                         </g>
                         <g id="coffee_mug">
-                          <polyline style="fill:#F9EFE5;stroke:#0D0D0D;stroke-miterlimit:10;" points="849.8,516.5 865.1,606.8 908,606.8 922.4,516.5 
+                          <polyline style="fill:#F9EFE5;stroke:#0D0D0D;stroke-miterlimit:10;" points="849.8,516.5 865.1,606.8 908,606.8 922.4,516.5
                             853.7,516.5   "/>
                           <polygon style="fill:#F3E5D4;" points="921.2,519.5 886.1,516.5 885.7,605.9 907.4,605.9  "/>
                           <polygon style="fill:#BE5532;stroke:#0D0D0D;stroke-miterlimit:10;" points="853.3,546.7 859.7,581.7 912.8,581.7 918.9,546.7  "/>
@@ -288,7 +289,7 @@
                           <line style="fill:none;stroke:#9B3021;stroke-linecap:round;stroke-miterlimit:10;" x1="861.1" y1="565.8" x2="911.6" y2="565.8"/>
                           <line style="fill:none;stroke:#9B3021;stroke-linecap:round;stroke-miterlimit:10;" x1="862.1" y1="573.1" x2="910.5" y2="573.1"/>
                           <line style="fill:none;stroke:#9B3021;stroke-linecap:round;stroke-miterlimit:10;" x1="862" y1="578.7" x2="909.5" y2="578.7"/>
-                          <polygon style="fill:#BE5532;stroke:#0B0B0B;stroke-miterlimit:10;" points="845.3,524.5 926.2,524.5 926.2,516.5 849.8,516.5 
+                          <polygon style="fill:#BE5532;stroke:#0B0B0B;stroke-miterlimit:10;" points="845.3,524.5 926.2,524.5 926.2,516.5 849.8,516.5
                             845.3,516.5   "/>
                           <polygon style="fill:#BE5532;stroke:#070808;stroke-miterlimit:10;" points="851.8,505.9 849.8,516.5 921.2,516.5 918.9,505.9  "/>
                           <polygon style="fill:#AD4025;" points="925.2,517.5 920,517.5 886.7,517.5 886.7,523.6 925.2,523.8  "/>
@@ -297,7 +298,7 @@
                         </g>
                       </svg>
                       </div>-->
-                      
+
 
 
             </div>
@@ -321,7 +322,7 @@
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-lightbulb-o"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-robot"></span></div></div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Strategy</h3>
                 <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
@@ -367,11 +368,11 @@
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
               <h2>TECHNOLOGIES WE USE</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-                
+
             </div>
           </div>
         </div>
-    
+
       <div id="maindiv">
         <div id="div1">
           &nbsp;
@@ -386,7 +387,7 @@
             <img src="images/php.png" width="150" height="150" alt="W3docs" />
             <img src="images/python.png" width="150" height="150" alt="W3docs" />
             <img src="images/photoshop.png" width="150" height="150" alt="W3docs" />
-       
+
         </div>
         <div id="div2">
           &nbsp;
@@ -406,16 +407,16 @@
       <br>
 </div>
     </section>
-    
-    
 
+
+    <>
     <section class="ftco-section">
       <div class="container">
         <div class="row no-gutters justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Works</span>
-            <h2 class="mb-4">View our works below to see our design and way of development.</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+
+            <h2 class="mb-4">"OUR PROJECTS"</h2>
+            <p>Our team focuses on plethora of projects covering essential domains of computational advancements. We are always a step ahead in excavating the trending technology of the cyber world.</p>
           </div>
         </div>
         <div class="row">
@@ -423,27 +424,27 @@
             <a href="portfolio.html" class="image" style="background-image: url('images/portal.png'); " data-scrollax=" properties: { translateY: '-20%'}">
             </a>
             <div class="text">
-              <h4 class="subheading">Illustration</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+
+              <h2 class="heading"><a href="portfolio.html">Student Attendence & Marks Portal for AKGEC & AKGIM</a></h2>
+              <p>The Student Portal is your online gateway to a variety of self-service tools. Log in with your student email address and password to access your academic and attendance details.</p>
               <p><a href="#" class="btn btn-primary px-4">View Project</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
             <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/feedback.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text order-1">
-              <h4 class="subheading">Application</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+
+              <h2 class="heading"><a href="portfolio.html">Student Feedback Portal for AKGEC & AKGIM</a></h2>
+              <p>Students have a comprehensive view of how their teachers educate and motivate. Student evaluations can be collected cheaply, quickly, and regularly, giving teachers the opportunities to make real-time adjustments to their teaching.</p>
               <p><a href="#" class="btn btn-primary px-4">View Project</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="#" class="image" style="background-image: url('images/work-3.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
+            <a href="#" class="image" style="background-image: url('images/koha.png'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text">
-              <h4 class="subheading">Web Design</h4>
-              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
-              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+
+              <h2 class="heading"><a href="portfolio.html">KOHA:Library Management System for AKGEC & AKGIM</a></h2>
+              <p>The best way to maintain, organise and handle countless books systematically is to implement a library management system software. This system completely automates all your library’s activities.</p>
               <p><a href="portfolio.html" class="btn btn-primary px-4">View Project</a></p>
             </div>
           </div>
@@ -462,60 +463,62 @@
           <div class="col-md-7 text-center heading-section ftco-animate">
             <span class="subheading"></span>
             <h2 class="mb-4">EVENTS</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+            <h4 style="font-size:18px;">Learners are better than experts because enthusiasm is more and ego is less!</h4>
+            <h4 style="font-size:18px;">We brings more and more oppurtunities for you to learn and showcase your skills through our events.</h4>
           </div>
         </div>
 
 
             <div class="row">
-              <div class="col-md-4 ftco-animate">
-                <div class="blog-entry">
-                  <a href="#" class="block-20" style="background-image: url('images/events/cf2018.jpg');">
-                  </a>
-                  <div class="text p-4 d-block">
-                    <div class="meta mb-3">
-                      <div><a href="#">July 12, 2018</a></div>
+                <div class="col-md-4 ftco-animate">
+                    <div class="blog-entry">
+                      <a href="#" class="block-20" style="background-image: url('images/events/cf2018.jpg');">
+                      </a>
+                      <div class="text p-4 d-block">
+                        <div class="meta mb-3">
+                          <div><a href="#">CODE-O-FIESTA'18</a></div>
+                        </div>
+                        <h3 class="heading"><a href="#">“Talk is cheap. Show me the code.”
+                          Showcase your coding skills in CODE-O-FIESTA'18 </a></h3>
+                      </div>
                     </div>
-                    <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  </div>
+              <div class="col-md-4 ftco-animate">
+                  <div class="blog-entry" data-aos-delay="200">
+                    <a href="blog-single.html" class="block-20" style="background-image: url('images/events/angular.jpg');">
+                    </a>
+                    <div class="text p-4">
+                      <div class="meta mb-3">
+                       <div><a href="#">ANGULAR 5/JAVA</a></div>
+                        <!--<div><a href="#"></a></div>
+                        <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>-->
+                      </div>
+                      <h3 class="heading"><a href="#">New technologies brings new oppurtunities. This workshop on Angular & Java is bringing you closer to the new technologies.</a></h3>
+                    </div>
                   </div>
                 </div>
-              </div>
               <div class="col-md-4 ftco-animate">
-                <div class="blog-entry" data-aos-delay="100">
-                  <a href="blog-single.html" class="block-20" style="background-image: url('images/events/codio.jpg');">
-                  </a>
-                  <div class="text p-4">
-                    <div class="meta mb-3">
-                      <div><a href="#">July 12, 2018</a></div>
-    
+                  <div class="blog-entry" data-aos-delay="200">
+                    <a href="blog-single.html" class="block-20" style="background-image: url('images/events/event3.jpg');">
+                    </a>
+                    <div class="text p-4">
+                      <div class="meta mb-3">
+                        <div><a href="#">THE TRIWIZARD TOURNAMENT</a></div>
+
+                      </div>
+                      <h3 class="heading"><a href="#">Wizardry and Wonder is going to fill the air of AKGEC this March. OSSRNDC proudly presents "The Triwizard Tournament" based on theme of Harry Potter.</a></h3>
                     </div>
-                    <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
                   </div>
                 </div>
-              </div>
-              <div class="col-md-4 ftco-animate">
-                <div class="blog-entry" data-aos-delay="200">
-                  <a href="blog-single.html" class="block-20" style="background-image: url('images/events/event3.jpg');">
-                  </a>
-                  <div class="text p-4">
-                    <div class="meta mb-3">
-                   
-                    </div>
-                    <h2 class="heading"><a href="#"> The Triwizard Tournament</a></h2>
-                    <h6 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h6>
-                  </div>
-                </div>
-              </div>
-                    
 
 
         </div>
-  
+
     </section>
 
- 
 
-    <section class="ftco-section bg-light">
+
+    <section class="ftco-section ">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
@@ -601,12 +604,12 @@
               <ul class="list-unstyled">
                 <li><a href="akgec.ac.in" class="py-2 d-block">AJAY KUMAR GARG ENGINEERING COLLEGE</a></li>
                 <li class="py-2 d-block">27th Km Stone
-                  Delhi - Hapur Bypass Road, 
-                  Adhyatmik Nagar 
+                  Delhi - Hapur Bypass Road,
+                  Adhyatmik Nagar
                   Ghaziabad - 201009</li>
                 <li><a href="#" class="py-2 d-block">9795094510</a></li>
                 <li><a href="#" class="py-2 d-block">ossrndcentre@gmail.com</a></li>
-                
+
               </ul>
             </div>
           </div>
@@ -655,7 +658,7 @@
                 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js'></script>
 
-  
+
 
     <script  src="js/about_us.js"></script>
 
