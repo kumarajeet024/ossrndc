@@ -516,64 +516,268 @@
 
     </section>
 
+    <div class="row">
+    <div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
 
+    <div class="card-wrapper">
 
-    <section class="ftco-section ">
-      <div class="container">
-        <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Blog</span>
-            <h2>Our Team</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-          </div>
+      <div class="card">
+
+        <div class="card-image">
+          <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
         </div>
-        <div class="row">
-          <div class="col-md-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/');">
-              </a>
-              <div class="text p-4 d-block">
-                <div class="meta mb-3">
-                  <div><a href="#">July 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="blog-entry" data-aos-delay="100">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
-              </a>
-              <div class="text p-4">
-                <div class="meta mb-3">
-                  <div><a href="#">July 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="blog-entry" data-aos-delay="200">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
-              </a>
-              <div class="text p-4">
-                <div class="meta mb-3">
-                  <div><a href="#">July 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
-              </div>
-            </div>
-          </div>
-        </div>
+
+      <ul class="social-icons">
+        <li>
+          <a href="">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+        </li>
+        <li>
+          <a href="">
+            <i class="fab fa-instagram"></i>
+          </a>
+        </li>
+        <li>
+          <a href="">
+            <i class="fab fa-twitter"></i>
+          </a>
+        </li>
+        <li>
+          <a href="">
+            <i class="fab fa-dribbble"></i>
+          </a>
+        </li>
+      </ul>
+
+      <div class="details">
+        <h2>John Smith
+          <br>
+          <span class="job-title">UI Developer</span>
+        </h2>
       </div>
-    </section>
+    </div>
+  </div>
+</div>
+<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
 
+<div class="card-wrapper">
+
+  <div class="card">
+
+    <div class="card-image">
+      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
+    </div>
+
+  <ul class="social-icons">
+    <li>
+      <a href="">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-dribbble"></i>
+      </a>
+    </li>
+  </ul>
+
+  <div class="details">
+    <h2>John Smith
+      <br>
+      <span class="job-title">UI Developer</span>
+    </h2>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
+
+<div class="card-wrapper">
+
+  <div class="card">
+
+    <div class="card-image">
+      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
+    </div>
+
+  <ul class="social-icons">
+    <li>
+      <a href="">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-dribbble"></i>
+      </a>
+    </li>
+  </ul>
+
+  <div class="details">
+    <h2>John Smith
+      <br>
+      <span class="job-title">UI Developer</span>
+    </h2>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
+
+<div class="card-wrapper">
+
+  <div class="card">
+
+    <div class="card-image">
+      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
+    </div>
+
+  <ul class="social-icons">
+    <li>
+      <a href="">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-dribbble"></i>
+      </a>
+    </li>
+  </ul>
+
+  <div class="details">
+    <h2>John Smith
+      <br>
+      <span class="job-title">UI Developer</span>
+    </h2>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
+
+<div class="card-wrapper">
+
+  <div class="card">
+
+    <div class="card-image">
+      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
+    </div>
+
+  <ul class="social-icons">
+    <li>
+      <a href="">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-dribbble"></i>
+      </a>
+    </li>
+  </ul>
+
+  <div class="details">
+    <h2>John Smith
+      <br>
+      <span class="job-title">UI Developer</span>
+    </h2>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
+
+<div class="card-wrapper">
+
+  <div class="card">
+
+    <div class="card-image">
+      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
+    </div>
+
+  <ul class="social-icons">
+    <li>
+      <a href="">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <i class="fab fa-dribbble"></i>
+      </a>
+    </li>
+  </ul>
+
+  <div class="details">
+    <h2>John Smith
+      <br>
+      <span class="job-title">UI Developer</span>
+    </h2>
+  </div>
+</div>
+</div>
+</div>
+
+
+</div>
+
+    
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">

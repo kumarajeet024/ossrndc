@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 08/12/2018 16:12
+  	Creation date: 10/12/2018 12:12
   	*/
 
 @font-face {
@@ -24,8 +24,9 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-size: 50px;
+        font-size: 20px;
 font-style: normal;
+margin-left: 0px;
 }
 
 .flaticon-robot:before { content: "\f100"; }
@@ -35,3 +36,4 @@ font-style: normal;
 .flaticon-hacker:before { content: "\f104"; }
 .flaticon-increasing-stocks-graphic-of-bars:before { content: "\f105"; }
 .flaticon-computer:before { content: "\f106"; }
+.flaticon-github-big-logo:before { content: "\f107"; }
