@@ -74,7 +74,9 @@
 
               <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-                    <br>
+                  <br>
+                  <br>  
+                  <br>
                     <br>
                     <br>
                     <br>
@@ -97,6 +99,7 @@
                     <br>
                     <br>
                   <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }" style="color: #f6b93b">Open Source Software Research & Development Centre</h1>
+                  <img src="images/logo.png" alt="logo" width=100px; height=150px;>
                   <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary btn-outline-white px-5 py-3">Get in touch</a></p>
 
 
@@ -120,19 +123,22 @@
 
     <div class="bg-light">
         <div class="text-center">
+          <br>
+          <br><br>
+          <br>
           <h1 style="padding-top:60px;">ABOUT US</h1>
         </div>
-        <div class="row mt-5 d-flex justify-content-left">
+        <div class="row mt-5 d-flex justify-content-center">
           <div class="col-md-6 ftco-animate">
-            <h2 class="heading" style="font-size: 15px;">In the present day scenario, the open source software is replacing the proprietary software because of manifold advantages they have over proprietary software. Even though Free/Open Source Software (FOSS) is widely used, much of the computer science research community has yet to fully recognise its potential to change the world of research and developement of software intensive systems across disciplines.
+            <h2 class="heading text-center" style="font-size: 15px;">In the present day scenario, the open source software is replacing the proprietary software because of manifold advantages they have over proprietary software. Even though Free/Open Source Software (FOSS) is widely used, much of the computer science research community has yet to fully recognise its potential to change the world of research and developement of software intensive systems across disciplines.
 
             </h2>
-            <h2 class="heading" style="font-size:15px;"> The establishment of this research and developement center is expected to create a unique opportunity to all stake holders of the institute. The facility so created shall be useful to carry out research/developement/training/consultancy related to open source software. The center will customize the open source software according to the requirements. It will also train the students and facilities of our institute and will involve them in the developement and customisation of recent open source software. </h2>
+            <h2 class="heading text-center" style="font-size:15px;"> The establishment of this research and developement center is expected to create a unique opportunity to all stake holders of the institute. The facility so created shall be useful to carry out research/developement/training/consultancy related to open source software. The center will customize the open source software according to the requirements. It will also train the students and facilities of our institute and will involve them in the developement and customisation of recent open source software. </h2>
             </div>
 
-            <!--<div class="col-md-4 ftco-animate justify-content-right">
+            <div class="col-md-4 ftco-animate justify-content-center">
 
-                <div style="width:500px; heigth:500px;">
+                <div style="width:300px; heigth:300px;">
                     <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                        viewBox="0 0 1186.4 662.8" style="enable-background:new 0 0 1186.4 662.8;" xml:space="preserve">
                         <g id="background">
@@ -297,16 +303,12 @@
                           <polygon style="fill:#9B3021;" points="850.9,515.7 851.2,513.7 919.6,513.7 920,515.7  "/>
                         </g>
                       </svg>
-                      </div>-->
+                      </div>
 
 
 
             </div>
-            <div class="row mt-5 d-flex justify-content-center">
-              <div class="col-md-8 text-center heading-section ftco-animate">
-            <p><a href="#" class="btn btn-primary mt-3 py-3 px-5">Get in touch</a></p>
-            </div>
-        </div>
+            
     </div>
 
 
@@ -315,49 +317,91 @@
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-6 text-center heading-section ftco-animate">
             <span class="heading "><h2>WHAT WE DO</h2></span>
-            <!--<h2 class="mb-4">Web &amp; Mobile app design, bring your ideas to life</h2>-->
+            <h3 class="mb-4">Web &amp; Mobile app design, bring your ideas to life</h3>
             <p></p>
           </div>
         </div>
         <div class="row">
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+                <div class="media block-6 services d-block justify-content-center">
+                  <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-robot"></span></div></div>
+                  <div class="media-body p-2 mt-3">
+                    <h2 class="heading">Android</h2>
+                  
+                  </div>
+                </div>
+              </div>
+             
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-robot"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-computer"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Strategy</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h2 class="heading">Graphics & Web Designing</h2>
+              
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-laptop"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-machine"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Design</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
-            <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-gear"></span></div></div>
-              <div class="media-body p-2 mt-3">
-                <h3 class="heading">Development</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h2 class="heading">Machine Learning </h2>
+              
               </div>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
             <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-live_help"></span></div></div>
+              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-web-development"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Help &amp; Supports</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h2 class="heading">Competitive Coding</h2>
+            
               </div>
             </div>
           </div>
         </div>
+
+        <div class="row">
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-monitor"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h2 class="heading">Web Development</h2>
+              
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-increasing-stocks-graphic-of-bars"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h2 class="heading">Data Analysis</h2>
+              
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-hacker"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h2 class="heading">Cyber Security</h2>
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center flaticon-github-big-logo"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h2 class="heading">Open Source Contribution</h2>
+            
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -516,268 +560,64 @@
 
     </section>
 
-    <div class="row">
-    <div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
 
-    <div class="card-wrapper">
 
-      <div class="card">
-
-        <div class="card-image">
-          <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
+    <section class="ftco-section ">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-5">
+          <div class="col-md-7 text-center heading-section ftco-animate">
+            <span class="subheading">Blog</span>
+            <h2>Our Team</h2>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+          </div>
         </div>
-
-      <ul class="social-icons">
-        <li>
-          <a href="">
-            <i class="fab fa-facebook-f"></i>
-          </a>
-        </li>
-        <li>
-          <a href="">
-            <i class="fab fa-instagram"></i>
-          </a>
-        </li>
-        <li>
-          <a href="">
-            <i class="fab fa-twitter"></i>
-          </a>
-        </li>
-        <li>
-          <a href="">
-            <i class="fab fa-dribbble"></i>
-          </a>
-        </li>
-      </ul>
-
-      <div class="details">
-        <h2>John Smith
-          <br>
-          <span class="job-title">UI Developer</span>
-        </h2>
+        <div class="row">
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20" style="background-image: url('images/');">
+              </a>
+              <div class="text p-4 d-block">
+                <div class="meta mb-3">
+                  <div><a href="#">July 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry" data-aos-delay="100">
+              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+              </a>
+              <div class="text p-4">
+                <div class="meta mb-3">
+                  <div><a href="#">July 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry" data-aos-delay="200">
+              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+              </a>
+              <div class="text p-4">
+                <div class="meta mb-3">
+                  <div><a href="#">July 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</div>
-<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
+    </section>
 
-<div class="card-wrapper">
-
-  <div class="card">
-
-    <div class="card-image">
-      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
-    </div>
-
-  <ul class="social-icons">
-    <li>
-      <a href="">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-instagram"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-dribbble"></i>
-      </a>
-    </li>
-  </ul>
-
-  <div class="details">
-    <h2>John Smith
-      <br>
-      <span class="job-title">UI Developer</span>
-    </h2>
-  </div>
-</div>
-</div>
-</div>
-
-<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
-
-<div class="card-wrapper">
-
-  <div class="card">
-
-    <div class="card-image">
-      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
-    </div>
-
-  <ul class="social-icons">
-    <li>
-      <a href="">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-instagram"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-dribbble"></i>
-      </a>
-    </li>
-  </ul>
-
-  <div class="details">
-    <h2>John Smith
-      <br>
-      <span class="job-title">UI Developer</span>
-    </h2>
-  </div>
-</div>
-</div>
-</div>
-
-<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
-
-<div class="card-wrapper">
-
-  <div class="card">
-
-    <div class="card-image">
-      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
-    </div>
-
-  <ul class="social-icons">
-    <li>
-      <a href="">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-instagram"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-dribbble"></i>
-      </a>
-    </li>
-  </ul>
-
-  <div class="details">
-    <h2>John Smith
-      <br>
-      <span class="job-title">UI Developer</span>
-    </h2>
-  </div>
-</div>
-</div>
-</div>
-
-<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
-
-<div class="card-wrapper">
-
-  <div class="card">
-
-    <div class="card-image">
-      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
-    </div>
-
-  <ul class="social-icons">
-    <li>
-      <a href="">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-instagram"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-dribbble"></i>
-      </a>
-    </li>
-  </ul>
-
-  <div class="details">
-    <h2>John Smith
-      <br>
-      <span class="job-title">UI Developer</span>
-    </h2>
-  </div>
-</div>
-</div>
-</div>
-
-<div class="container col-lg-2 col-md-3 col-sm-4 col-xs-12">
-
-<div class="card-wrapper">
-
-  <div class="card">
-
-    <div class="card-image">
-      <img src="https://image.ibb.co/dUTfmJ/profile_img.jpg" alt="profile one" width="400px" height="500px">
-    </div>
-
-  <ul class="social-icons">
-    <li>
-      <a href="">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-instagram"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a href="">
-        <i class="fab fa-dribbble"></i>
-      </a>
-    </li>
-  </ul>
-
-  <div class="details">
-    <h2>John Smith
-      <br>
-      <span class="job-title">UI Developer</span>
-    </h2>
-  </div>
-</div>
-</div>
-</div>
-
-
-</div>
-
-    
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
