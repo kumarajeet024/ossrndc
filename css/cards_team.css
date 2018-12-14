@@ -1,174 +1,97 @@
-/**** Sass Variables ****/
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+@import url(https://fonts.googleapis.com/css?family=Raleway:100);
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+body{
+    background-color:whitesmoke;
 }
-
-body {
-  font-family: "Open Sans", sans-serif;
-  background: #333;
-}
-
-.container {
-  max-width: 900px;
-  display: flex;
-
-
-}
-
-.card-wrapper {
-  width: 200px;
-  height: 300px;
-
-}
-
-.card {
-  position: absolute;
-  top: 30%;
-  left: 37%;
-  width: 150px;
-  height: 200px;
-  transform: translate(-50%, -50%);
-  border-radius: 16px;
+figure.snip1471 {
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+  position: relative;
   overflow: hidden;
-  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
-  cursor: pointer;
-  transition: 0.5s;
+  margin: 10px;
+  min-width: 200px;
+  max-width: 200px;
+  max-height: 200px;
+  width: 100%;
+  background: #000000;
+  color: #ffffff;
+    border-radius:10%;
 }
-.card .card-image {
+figure.snip1471 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+}
+figure.snip1471 img {
+  opacity: 0.8;
+  width: 100%;
+  -webkit-transition: opacity 0.35s;
+  transition: opacity 0.35s;
+}
+figure.snip1471 figcaption {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  bottom: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  z-index: 2;
-  background-color: #000;
-  transition: .5s;
 }
-.card:hover img {
-  opacity: 0.4;
-  transition: .5s;
-}
-
-.card:hover .card-image {
-  transform: translateY(-100px);
-  transition: all .9s;
-}
-
-/**** Social Icons *****/
-.social-icons {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 3;
-  display: flex;
-}
-.social-icons li {
-  list-style: none;
-}
-.social-icons li a {
+figure.snip1471 figcaption > div {
+  height: 70%;
+  overflow: hidden;
+  width: 100%;
   position: relative;
-  display: block;
-  width: 20px;
-  height: 20px;
-  line-height: 50px;
-  text-align: center;
-
-  font-size: 23px;
-  color: #333;
-  font-weight: bold;
-  margin: 0 3px;
-  transition: .4s;
-  transform: translateY(200px);
+}
+figure.snip1471 h2,
+figure.snip1471 h3,
+figure.snip1471 .icons {
+  margin: 0;
+  position: absolute;
+  right: 0;
+  padding: 0 30px;
+  text-transform: uppercase;
+   font-size:20px; 
+}
+figure.snip1471 h2 {
+  font-weight: 900;
+  bottom: 0;
+}
+figure.snip1471 h3 {
+  font-size: 1em;
+  top: 0;
+  font-weight: 500;
+}
+figure.snip1471 .icons {
+  opacity: 0;
+  -webkit-transform: translateY(-150%);
+  transform: translateY(-150%);
+}
+figure.snip1471 .icons a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 1.6em;
+  opacity: 0.6;
+}
+figure.snip1471 .icons a:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+figure.snip1471:hover img,
+figure.snip1471.hover img {
+  opacity: 0;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+figure.snip1471:hover figcaption h3,
+figure.snip1471.hover figcaption h3 {
+  -webkit-transform: translateY(-150%);
+  transform: translateY(-150%);
   opacity: 0;
 }
-
-.card:hover .social-icons li a {
-  transform: translateY(0px);
+figure.snip1471:hover figcaption .icons,
+figure.snip1471.hover figcaption .icons {
   opacity: 1;
-}
-
-.social-icons li a:hover {
-
-  transition: .2s;
-}
-.social-icons li a:hover .fab {
-  color: #fff;
-}
-
-.social-icons li a .fab {
-  transition: .8s;
-}
-.social-icons li a .fab:hover {
-  transform: rotateY(360deg);
-  color: #fff;
-}
-
-.card:hover li:nth-child(1) a {
-  transition-delay: 0.1s;
-}
-
-.card:hover li:nth-child(2) a {
-  transition-delay: 0.2s;
-}
-
-.card:hover li:nth-child(3) a {
-  transition-delay: 0.3s;
-}
-
-.card:hover li:nth-child(4) a {
-  transition-delay: 0.4s;
-}
-
-/**** Personal Details ****/
-.details {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  background: #fff;
-  width: 100%;
-  height: 40px;
-  z-index: 1;
-
-}
-.details h2 {
-  margin: 3px 0;
-  padding: 0;
-  text-align: center;
-}
-.details h2 .job-title {
-  font-size: 1rem;
-  line-height: 2.5rem;
-  color: #333;
-  font-weight: 300;
-}
-
-.jane {
-  position: absolute;
-  bottom: -120px;
-  left: 0;
-  opacity: 0;
-  background: #fff;
-  width: 100%;
-  height: 120px;
-  z-index: 3;
-  padding: 10px;
-  transition: .4s;
-}
-
-.profile-two .social-icons li a {
-  border-radius: 50%;
-}
-
-.card:hover .profile-img--two {
-  transform: rotateY(180deg);
-}
-
-.card:hover .jane {
-  bottom: 0;
-  left: 0;
-  transition-delay: 0.5s;
-  opacity: 1;
+  -webkit-transform: translateY(0%);
+  transform: translateY(0%);
 }
